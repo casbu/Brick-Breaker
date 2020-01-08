@@ -1,6 +1,17 @@
 # Brick Breaker
  Very Basic Vanilla JS Brick Breaker
  
-## Future Changes
-| UI | Scoring System, Menu, Credits, etc |
-| Game | Level Backgrounds, Transitions, New Bricks, Shooting Capability |
+## Future Additions
+
+|UI|
+|:----:|
+- [ ] Start Menu 
+- [ ] Credits
+- [ ] Scoring System
+
+|Game|
+|:----:|
+- [ ] Level Backgrounds
+- [ ] Level Transitions
+- [ ] New Bricks
+- [ ] Shooting Capability
